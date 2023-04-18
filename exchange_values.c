@@ -4,7 +4,7 @@ int main(void)
 {
 
 int x = 28;
-int y = 444;
+int y = 113;
 int z = 125;
 int w = 71;
 int zack = 38;
