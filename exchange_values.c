@@ -8,6 +8,7 @@ int y = 113;
 int z = 125;
 int w = 71;
 int zack = 38;
+float current = 41.51
 // What about comments?
 
 // swapping...
