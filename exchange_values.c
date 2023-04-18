@@ -18,7 +18,7 @@ y = temp;
 printf("x is now %i\n", x);
 printf("y is now %i\n", y);
 printf("Adding another line in which z = %i\n", z);
-printf("Zack is worth %i $\n", zack);
+printf("Zack is worth %i$\n", zack);
 // Adding another comment here
 
 // This is just a comment
