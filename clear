@@ -1,0 +1,13 @@
+[1mdiff --git a/exchange_values.c b/exchange_values.c[m
+[1mindex a7f6067..118b7bc 100644[m
+[1m--- a/exchange_values.c[m
+[1m+++ b/exchange_values.c[m
+[36m@@ -14,4 +14,5 @@[m [my = temp;[m
+ printf("x is now %i\n", x);[m
+ printf("y is now %i\n", y);[m
+ [m
+[31m-// This is just a comment[m
+\ No newline at end of file[m
+[32m+[m[32m// This is just a comment[m
+[32m+[m[32m// This is another comment[m
+\ No newline at end of file[m
