@@ -3,9 +3,8 @@
 int main(void)
 {
 
-int x = 28;
+int x = 51;
 int y = 113;
-int z = 125;
 
 // swapping...
 int temp = x;
