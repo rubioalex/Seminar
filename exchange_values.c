@@ -6,11 +6,6 @@ int main(void)
 int x = 28;
 int y = 113;
 int z = 125;
-int w = 71;
-int zack = 38;
-float current = 41.51
-float current_2 = 15.73
-// What about comments?
 
 // swapping...
 int temp = x;
@@ -19,11 +14,6 @@ y = temp;
 
 printf("x is now %i\n", x);
 printf("y is now %i\n", y);
-printf("Adding another line in which z = %i\n", z);
-printf("Zack is worth %i$\n", zack);
 // Adding another comment here
 
-// This is just a comment
-// This is another comment
-// Are changes performed automatically now in GitHub?
 }
