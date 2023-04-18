@@ -24,3 +24,4 @@ printf("Zack is worth %i $\n", zack);
 // This is just a comment
 // This is another comment
 // Are changes performed automatically now in GitHub?
+}
