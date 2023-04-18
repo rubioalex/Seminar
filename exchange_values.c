@@ -6,6 +6,7 @@ int main(void)
 int x = 28;
 int y = 50;
 int z = 125;
+int w = 71;
 // What about comments?
 
 // swapping...
