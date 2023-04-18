@@ -7,6 +7,7 @@ int x = 28;
 int y = 50;
 int z = 125;
 int w = 71;
+int zack = 38;
 // What about comments?
 
 // swapping...
@@ -20,3 +21,4 @@ printf("Adding another line in which z = %i\n", z);
 
 // This is just a comment
 // This is another comment
+// Are changes performed automatically now in GitHub?
