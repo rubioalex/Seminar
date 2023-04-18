@@ -5,6 +5,7 @@ int main(void)
 
 int x = 51;
 int y = 113;
+int z = 24; // This is new_branch
 
 // swapping...
 int temp = x;
